@@ -1,4 +1,4 @@
-# K nearest neighbor
+# K nearest neighbor for objects
 
     var k = require('./lib/index');
 
