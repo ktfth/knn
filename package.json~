@@ -2,7 +2,7 @@
     "name": "knn",
     "version": "0.0.1",
     "scripts": {
-        "test": "mocha -u tdd lib/*.test.js"
+        "test": "mocha lib/*.test.js"
     },
     "dependencies": {
         "lodash": "*"    
