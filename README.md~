@@ -1,9 +1,5 @@
 # K nearest neighbor for objects
 
-[![Build Status](https://travis-ci.org/kaiquewdev/knn.svg?branch=master)](https://travis-ci.org/kaiquewdev/knn)
-
-## Description
-
     var k = require('./lib/index');
 
     var center = { a: 1, b: 2 },
