@@ -1,7 +1,6 @@
-'use strict';
-var root = exports,
-    // modules
-    _ = require('lodash');
+'use strict'
+const root = exports
+const _ = require('lodash')
 
 var distance = root.distance = function ( a, b ) {
     var i = Math.min(a.length, b.length),
