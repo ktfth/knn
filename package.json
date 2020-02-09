@@ -1,5 +1,5 @@
 {
-    "name": "knn",
+    "name": "knn-core",
     "version": "0.0.1",
     "scripts": {
         "test": "mocha -u tdd lib/*.test.js"
