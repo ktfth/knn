@@ -1,6 +1,7 @@
 {
     "name": "knn-core",
     "version": "0.1.0",
+    "main": "lib/index.js",
     "scripts": {
         "test": "mocha -u tdd lib/*.test.js"
     },
